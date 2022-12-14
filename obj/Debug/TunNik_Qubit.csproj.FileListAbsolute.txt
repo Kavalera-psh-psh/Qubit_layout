@@ -1,0 +1,16 @@
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\bin\Debug\TunNik_Qubit.exe.config
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\bin\Debug\TunNik_Qubit.exe
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\bin\Debug\TunNik_Qubit.pdb
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\MainWindow.g.cs
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\App.g.cs
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit_MarkupCompile.cache
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit_MarkupCompile.lref
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\MainWindow.baml
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.g.resources
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.Properties.Resources.resources
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.csproj.GenerateResource.cache
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.csproj.CoreCompileInputs.cache
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.exe
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.pdb
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\TunNik_Qubit.csprojAssemblyReference.cache
+C:\Users\Преподаватель\source\repos\TunNik_Qubit\obj\Debug\App.baml
